@@ -1,9 +1,1 @@
-# Alex DUVAL
-
-### Full Stack DEV
-
-Créateur de solution technique Web sur mesure. 
-
-**Design & Code** web APP. 
-
-VUE fan boy 
+![Alex Duval Cover](https://res.cloudinary.com/dey128wj1/image/upload/v1594588496/cover_2x_mgsn5q.png)
