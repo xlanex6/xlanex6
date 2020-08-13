@@ -25,7 +25,7 @@
 ---
 
 
-[![Alex stats](https://github-readme-stats.vercel.app/api?username=xlanex6)][website]
+[![Alex stats](https://xlanex6-github-stat-2tc369jgy.vercel.app/api?username=xlanex6)][website]
 
 
 ![counter](https://ennjgcps5pdut2y.m.pipedream.net)
