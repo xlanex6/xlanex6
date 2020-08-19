@@ -24,8 +24,8 @@
 ---
 
 ### Episodes de DOUBLE SLASH //.
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
