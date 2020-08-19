@@ -23,7 +23,7 @@
 
 ---
 
-### Episodes de DOUBLE SLASH //.
+[### PODCAST - Episodes de DOUBLE SLASH //.][podcast]
 <!-- YOUTUBE:START -->
 - [Double Slash Podcast //. 009 -  jQuery en 2020 ?](https://www.youtube.com/watch?v=soG6DPrsFbk)
 - [Double Slash Podcast //008 -  SEO en 2020 avec Nicolas Baldi](https://www.youtube.com/watch?v=O-l-eQjY_mA)
@@ -42,3 +42,4 @@
 
 
 [website]:https://www.alexduval.fr/?utm_campaign=ReadMe&utm_medium=img&utm_source=Github
+[podcast]:https://bit.ly/3hcwGTq
