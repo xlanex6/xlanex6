@@ -24,7 +24,7 @@
 ---
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/xlanex6?color=1DA1F2&logo=twitter&style=for-the-badge)
-![Website](https://img.shields.io/website?label=mindeset&style=for-the-badge&up_message=100%25%20bullshit%20FRE&url=http%3A%2F%2Fwww.alexduval.fr)
+![Website](https://img.shields.io/website?label=mindeset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)
 
 ---
 
