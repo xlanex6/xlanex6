@@ -28,16 +28,7 @@
 
 ---
 
-### [PODCAST - Episodes de DOUBLE SLASH //.][podcast]
-<!-- YOUTUBE:START -->
-- [Double Slash Podcast //. 009 -  jQuery en 2020 ?](https://www.youtube.com/watch?v=soG6DPrsFbk)
-- [Double Slash Podcast //008 -  SEO en 2020 avec Nicolas Baldi](https://www.youtube.com/watch?v=O-l-eQjY_mA)
-- [Double Slash Podcast //007 -  Tailwindcss, évolution ou révolution ?](https://www.youtube.com/watch?v=ZwgL3CAzuMk)
-- [Double Slash Podcast - 006 JAMstack Conf. LONDON](https://www.youtube.com/watch?v=YzqtcVsQEBM)
-- [Double Slash Podcast - 002 JAMstack](https://www.youtube.com/watch?v=x5HcdGHWoAc)
-<!-- YOUTUBE:END -->
----
-### Site du Podcast
+### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
 - [Live Share pour Visual Studio Code et des news](https://slash-podcast.fr/podcasts/pair-coding/)
 - [jQuery en 2020](https://slash-podcast.fr/podcasts/jquery/)
