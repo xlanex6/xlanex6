@@ -37,7 +37,8 @@
 - [Double Slash Podcast - 002 JAMstack](https://www.youtube.com/watch?v=x5HcdGHWoAc)
 <!-- YOUTUBE:END -->
 ---
-<!-- PODCAST::START --><!-- PODCAST::END -->
+### Site du Podcast
+<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
 ---
 
 
