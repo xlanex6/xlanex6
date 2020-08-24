@@ -15,12 +15,3 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCp5DGBAX2XNJXeOVAo7bICQ"
-  update-readme-with-podcast:
-    name: Update this repo's README with latest Podcast
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "PODCAST"
-          feed_list: "https://slash-podcast.fr/podcast-rss-feed.xml"
