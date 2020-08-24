@@ -15,5 +15,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "PODCAST"
-          tempalte: "itunes:episode [$itunes:title]($link)"
+          template: "itunes:episode [$itunes:title]($link)"
           feed_list: "https://slash-podcast.fr/podcast-rss-feed.xml"
