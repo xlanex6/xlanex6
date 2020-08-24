@@ -38,7 +38,13 @@
 <!-- YOUTUBE:END -->
 ---
 ### Site du Podcast
-<!-- BLOG-POST-LIST:START -->$itunes:episode [$itunes:title]($link)$itunes:episode [$itunes:title]($link)$itunes:episode [$itunes:title]($link)$itunes:episode [$itunes:title]($link)$itunes:episode [$itunes:title]($link)<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Live Share pour Visual Studio Code et des news](https://slash-podcast.fr/podcasts/pair-coding/)
+- [jQuery en 2020](https://slash-podcast.fr/podcasts/jquery/)
+- [Le SEO en 2020, avec Nicolas Baldi](https://slash-podcast.fr/podcasts/seo/)
+- [TailwindCSS - Évolution ou Révolution ?](https://slash-podcast.fr/podcasts/tailwindcss/)
+- [JAMstack CONF. London](https://slash-podcast.fr/podcasts/jamstack-conf/)
+<!-- BLOG-POST-LIST:END -->
 ---
 
 
