@@ -38,7 +38,7 @@
 <!-- YOUTUBE:END -->
 ---
 ### Site du Podcast
-<!-- BLOG-POST-LIST:START --><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->itunes:episode [$itunes:title]($link)itunes:episode [$itunes:title]($link)itunes:episode [$itunes:title]($link)itunes:episode [$itunes:title]($link)itunes:episode [$itunes:title]($link)<!-- BLOG-POST-LIST:END -->
 ---
 
 
