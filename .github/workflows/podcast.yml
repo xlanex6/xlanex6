@@ -3,7 +3,7 @@ name: Latest Podcast
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch:
 
 jobs:
