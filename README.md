@@ -22,6 +22,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/xlanex6?color=1DA1F2&logo=twitter&style=for-the-badge)
 ![Website](https://img.shields.io/website?label=mindeset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)
 
+Ambassador at [Prisma.io](https://www.prisma.io/?utm_source=Prisma+Ambassador&utm_medium=Blop+post&utm_campaign=ambassador_program&utm_content=Prisma+AP+Alex+Duval)
+
 ---
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
