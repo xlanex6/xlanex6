@@ -27,11 +27,11 @@ Ambassador at [Prisma.io](https://www.prisma.io/?utm_source=Prisma+Ambassador&ut
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Nuxt.JS avec Sébastien Chopin](https://slash-podcast.fr/podcasts/nuxt-sebastien-chopin/)
 - [Prisma ORM](https://slash-podcast.fr/podcasts/prisma-orm/)
 - [Back to school](https://slash-podcast.fr/podcasts/back-to-school/)
 - [What the WASM !](https://slash-podcast.fr/podcasts/wasm/)
 - [Un site statique de 11000 pages](https://slash-podcast.fr/podcasts/site-statique-10000-pages/)
-- [Audit des Google core web vitals](https://slash-podcast.fr/podcasts/core-web-vitals/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
