@@ -18,10 +18,11 @@
 
 ---
 
-![Twitter Follow](https://img.shields.io/twitter/follow/xlanex6?color=1DA1F2&logo=twitter&style=for-the-badge)
-![Website](https://img.shields.io/website?label=mindeset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/xlanex6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/xlanex6)
+[![Website](https://img.shields.io/website?label=mindeset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)](https://www.alexduval.fr/)
 
-Ambassador at [Prisma.io](https://www.prisma.io/?utm_source=Prisma+Ambassador&utm_medium=Blop+post&utm_campaign=ambassador_program&utm_content=Prisma+AP+Alex+Duval)
+Ambassador at
+[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/?utm_source=Prisma+Ambassador&utm_medium=Blop+post&utm_campaign=ambassador_program&utm_content=Prisma+AP+Alex+Duval)
 
 ---
 
@@ -36,10 +37,10 @@ Ambassador at [Prisma.io](https://www.prisma.io/?utm_source=Prisma+Ambassador&ut
 ---
 
 
-[![Alex stats](https://xlanex6-github-stat-2tc369jgy.vercel.app/api?username=xlanex6)][website]
+<!-- [![Alex stats](https://xlanex6-github-stat-2tc369jgy.vercel.app/api?username=xlanex6)][website] -->
 
 
-![counter](https://ennjgcps5pdut2y.m.pipedream.net)
+<!-- ![counter](https://ennjgcps5pdut2y.m.pipedream.net) -->
 
 
 [website]:https://www.alexduval.fr/?utm_campaign=ReadMe&utm_medium=img&utm_source=Github
