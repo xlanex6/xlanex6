@@ -20,9 +20,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/xlanex6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/xlanex6)
 [![Website](https://img.shields.io/website?label=mindeset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)](https://www.alexduval.fr/)
-
-Ambassador at
-[![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/?utm_source=Prisma+Ambassador&utm_medium=Blop+post&utm_campaign=ambassador_program&utm_content=Prisma+AP+Alex+Duval)
+[![Prisma](https://img.shields.io/badge/Prisma%20Ambassador-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/?utm_source=Prisma+Ambassador&utm_medium=Blop+post&utm_campaign=ambassador_program&utm_content=Prisma+AP+Alex+Duval)
+<!-- [![Nuxt](https://img.shields.io/badge/Nuxt%20Ambassador-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://www.nuxtjs.com) -->
 
 ---
 
