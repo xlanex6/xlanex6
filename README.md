@@ -27,11 +27,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
-- [Docusaurus et React Hebdo](https://www.double-slash.dev/podcasts/docusaurus)
-- [Épisode spécial 50 en live](https://www.double-slash.dev/podcasts/episode-50)
-- [Les News pour octobre 2022](https://www.double-slash.dev/podcasts/news-octobre-22)
-- [SEO 2022 avec Dan Bernier](https://www.double-slash.dev/podcasts/seo-2022)
-- [PWA Builder avec David Rousset](https://www.double-slash.dev/podcasts/pwa_builder)
+- [Docusaurus et React Hebdo](https://double-slash.dev/podcasts/docusaurus)
+- [Épisode spécial 50 en live](https://double-slash.dev/podcasts/episode-50)
+- [Les News pour octobre 2022](https://double-slash.dev/podcasts/news-octobre-22)
+- [SEO 2022 avec Dan Bernier](https://double-slash.dev/podcasts/seo-2022)
+- [PWA Builder avec David Rousset](https://double-slash.dev/podcasts/pwa_builder)
 <!-- BLOG-POST-LIST:END -->
 ---
 
