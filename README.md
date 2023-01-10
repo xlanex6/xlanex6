@@ -27,11 +27,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Medusa JS, l&#39;alternative headless e-commerce open-source](https://double-slash.dev/podcasts/medusa/)
 - [Les News pour décembre 22](https://double-slash.dev/podcasts/news_dec22/)
 - [Générer un site statique avec PHP grâce à Cecil](https://double-slash.dev/podcasts/cecil-static-php/)
 - [Ruby on rails, le développement intuitif](https://double-slash.dev/podcasts/ruby-on-rails/)
 - [Les News pour novembre 2022](https://double-slash.dev/podcasts/news-novembre-2022/)
-- [Docusaurus et React Hebdo](https://double-slash.dev/podcasts/docusaurus/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
