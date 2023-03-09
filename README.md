@@ -27,11 +27,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [WordPress en 2023](https://double-slash.dev/podcasts/wordpress/)
 - [Les News pour février 2023](https://double-slash.dev/podcasts/news_fev23/)
 - [Culture DevOps avec Les Compagnons du DevOps](https://double-slash.dev/podcasts/compagnons-du-devops/)
 - [Les News pour janvier 2023](https://double-slash.dev/podcasts/news_janv23/)
 - [Medusa JS, l&#39;alternative headless e-commerce open-source](https://double-slash.dev/podcasts/medusa/)
-- [Les News pour décembre 22](https://double-slash.dev/podcasts/news_dec22/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
