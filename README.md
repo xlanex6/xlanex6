@@ -27,11 +27,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Les news pour Avril 2023](https://double-slash.dev/podcasts/news4-23/)
 - [Les nouvelles DB](https://double-slash.dev/podcasts/newdb/)
 - [Les News pour mars 2023](https://double-slash.dev/podcasts/news_mars_23/)
 - [WordPress en 2023](https://double-slash.dev/podcasts/wordpress/)
 - [Les News pour février 2023](https://double-slash.dev/podcasts/news_fev23/)
-- [Culture DevOps avec Les Compagnons du DevOps](https://double-slash.dev/podcasts/compagnons-du-devops/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
