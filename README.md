@@ -27,11 +27,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Laravel avec LaravelJustu](https://double-slash.dev/podcasts/laravel/)
 - [Les news pour Mai 2023](https://double-slash.dev/podcasts/news05_23/)
 - [La Web Performance en 2023 avec Eroan Boyer](https://double-slash.dev/podcasts/webperf/)
 - [Les news pour Avril 2023](https://double-slash.dev/podcasts/news4-23/)
 - [Les nouvelles DB](https://double-slash.dev/podcasts/newdb/)
-- [Les News pour mars 2023](https://double-slash.dev/podcasts/news_mars_23/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
