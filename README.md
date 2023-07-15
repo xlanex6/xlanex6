@@ -27,11 +27,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Redis, pour le cache mais pas que !](https://double-slash.dev/podcasts/redisdead/)
 - [Les News Web Dev pour Juin 2023](https://double-slash.dev/podcasts/news06_23/)
 - [Laravel avec LaravelJutsu](https://double-slash.dev/podcasts/laravel/)
 - [Les news pour Mai 2023](https://double-slash.dev/podcasts/news05_23/)
 - [La Web Performance en 2023 avec Eroan Boyer](https://double-slash.dev/podcasts/webperf/)
-- [Les news pour Avril 2023](https://double-slash.dev/podcasts/news4-23/)
 <!-- BLOG-POST-LIST:END -->
 ---
 
