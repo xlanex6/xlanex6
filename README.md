@@ -14,7 +14,7 @@
 <br>
 
 
-[![Website](https://img.shields.io/website?label=mindeset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)](https://www.alexduval.fr/)
+[![Website](https://img.shields.io/website?label=mindset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)](https://www.alexduval.fr/)
 [![Prisma](https://img.shields.io/badge/Prisma%20Ambassador-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/?utm_source=Prisma+Ambassador&utm_medium=Blop+post&utm_campaign=ambassador_program&utm_content=Prisma+AP+Alex+Duval)
 [![Nuxt](https://img.shields.io/badge/Nuxter-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://www.nuxtjs.com)
 
