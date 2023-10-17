@@ -21,11 +21,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Les News Web Dev pour octobre 2023](https://double-slash.dev/podcasts/newsoct23/)
 - [Découvrir TailwindCSS en 2023](https://double-slash.dev/podcasts/tailwind23/)
 - [Les News Web Dev pour Septembre 2023](https://double-slash.dev/podcasts/newssept23/)
 - [Les News Web Dev version summer 23](https://double-slash.dev/podcasts/sumnews23/)
 - [Redis, pour le cache mais pas que !](https://double-slash.dev/podcasts/redisdead/)
-- [Les News Web Dev pour Juin 2023](https://double-slash.dev/podcasts/news06_23/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
