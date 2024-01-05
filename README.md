@@ -21,11 +21,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Les News Web Dev janvier 2024](https://double-slash.dev/podcasts/news24w1/)
 - [Les News Web Dev pour Noël 2023](https://double-slash.dev/podcasts/newsnoel23/)
 - [Les News Web Dev pour Décembre 2023](https://double-slash.dev/podcasts/news12_23/)
 - [Coder des emails](https://double-slash.dev/podcasts/dev_email/)
 - [Les News Web Dev pour Novembre 2023](https://double-slash.dev/podcasts/newsnov23/)
-- [Améliorer le SEO avec les IA, mythe ou réalité ?](https://double-slash.dev/podcasts/seoia/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
