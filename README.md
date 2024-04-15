@@ -53,9 +53,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 --- 
-
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xlanex6&show_icons=true&theme=transparent)
-
+-->
 <!-- ![counter](https://ennjgcps5pdut2y.m.pipedream.net) -->
 
 
