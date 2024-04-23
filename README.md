@@ -1,10 +1,6 @@
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/xlanex6/xlanex6/123ff03c3a873cf487c84c78c4ad64c404bc6399/profile-3d-contrib/profile-season-animate.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xlanex6/xlanex6/123ff03c3a873cf487c84c78c4ad64c404bc6399/profile-3d-contrib/profile-season-animate.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/xlanex6/xlanex6/123ff03c3a873cf487c84c78c4ad64c404bc6399/profile-3d-contrib/profile-season-animate.svg" />
-	</picture>
-</p>
+
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <!-- 
 [![Alex Duval Cover](https://res.cloudinary.com/dey128wj1/image/upload/v1594650260/cover_2x_vnypvx.png)][website]  
