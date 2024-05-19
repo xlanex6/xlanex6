@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
-- [News Mai 2024](https://double-slash.dev/podcasts/news-05-24/)
+- [Les news web dev pour Mai 2024 - partie 2](https://double-slash.dev/podcasts/news05-2-24/)
+- [Les news web dev pour Mai 2024](https://double-slash.dev/podcasts/news-05-24/)
 - [Les News Web Dev Avril 2024](https://double-slash.dev/podcasts/news-04-24/)
 - [Les News Web Dev mars 2024](https://double-slash.dev/podcasts/news-03-24/)
 - [Les News Web Dev février 2024](https://double-slash.dev/podcasts/news-feb24/)
-- [Dans la jungle des CMS Headless](https://double-slash.dev/podcasts/cmsheadless/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
