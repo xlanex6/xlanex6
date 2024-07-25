@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Les news web dev pour l&#39;été 2024](https://double-slash.dev/podcasts/summernews-24/)
 - [Les news web dev pour juillet 2024](https://double-slash.dev/podcasts/news-jul-24/)
 - [PaaS, déployer et héberger les Web Applications avec Coolify](https://double-slash.dev/podcasts/coolify/)
 - [Les news web dev pour Juin 2024](https://double-slash.dev/podcasts/news-06-24/)
 - [Google I/O coté web développement](https://double-slash.dev/podcasts/gooio24/)
-- [Les news web dev pour Mai 2024 - partie 2](https://double-slash.dev/podcasts/news05-2-24/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
