@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Nos meilleurs apps pour le développement](https://double-slash.dev/podcasts/tools-24/)
 - [Les news web dev pour octobre 2024](https://double-slash.dev/podcasts/news-oct-24/)
 - [La gestion des secrets et .ENV](https://double-slash.dev/podcasts/secret-environnement/)
 - [Les news web dev pour septembre 2024](https://double-slash.dev/podcasts/news-sept24/)
 - [Les news web dev pour août 2024](https://double-slash.dev/podcasts/news-aout-24/)
-- [Monorepo ou pas ?](https://double-slash.dev/podcasts/monorepo/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
