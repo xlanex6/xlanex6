@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Self Hosting et Kamal 2 avec Guillaume Briday](https://double-slash.dev/podcasts/self-hosting-revolution/)
 - [Les news web dev pour novembre 2024 - RC 1.0](https://double-slash.dev/podcasts/news-nov24-1/)
 - [Épisode 100 - Questions/Réponses](https://double-slash.dev/podcasts/episode-100/)
 - [Les news web dev pour octobre 2024 - RC 3.0](https://double-slash.dev/podcasts/news-oct24-3/)
 - [Les news web dev pour octobre 2024 - 2.0](https://double-slash.dev/podcasts/news-oct24-2/)
-- [Nos meilleurs apps pour le développement](https://double-slash.dev/podcasts/tools-24/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
