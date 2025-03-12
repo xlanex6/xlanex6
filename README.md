@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Les news web dev pour mars 2025](https://double-slash.dev/podcasts/news-mar-25/)
 - [Les news web dev pour février 2025](https://double-slash.dev/podcasts/news-feb25/)
 - [Les news web dev pour janvier 2025](https://double-slash.dev/podcasts/news-janv25/)
 - [Développer des projets IA - introduction](https://double-slash.dev/podcasts/devia1-1/)
 - [Les news web dev pour décembre 2024 - RC 1.0](https://double-slash.dev/podcasts/news-dec24-1/)
-- [Self Hosting et Kamal 2 avec Guillaume Briday](https://double-slash.dev/podcasts/self-hosting-revolution/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
