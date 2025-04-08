@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Développer des projets IA - Comprendre les RAG](https://double-slash.dev/podcasts/ia-rag/)
 - [Les news web dev pour mars 2025 RC2](https://double-slash.dev/podcasts/news-mars-rc2/)
 - [Les news web dev pour mars 2025](https://double-slash.dev/podcasts/news-mar-25/)
 - [Les news web dev pour février 2025](https://double-slash.dev/podcasts/news-feb25/)
 - [Les news web dev pour janvier 2025](https://double-slash.dev/podcasts/news-janv25/)
-- [Développer des projets IA - introduction](https://double-slash.dev/podcasts/devia1-1/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
