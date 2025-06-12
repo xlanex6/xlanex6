@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [La fabuleuse histoire de Next.js](https://double-slash.dev/podcasts/nextjs/)
 - [Les news web dev et IA pour mai 2025 RC2](https://double-slash.dev/podcasts/news-mai-rc2/)
 - [Les news web dev et IA pour mai 2025](https://double-slash.dev/podcasts/news_mai-25/)
 - [Les news web dev pour avril 2025](https://double-slash.dev/podcasts/news-avril-25/)
 - [Développer des projets IA - Comprendre les RAG](https://double-slash.dev/podcasts/ia-rag/)
-- [Les news web dev pour mars 2025 RC2](https://double-slash.dev/podcasts/news-mars-rc2/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
