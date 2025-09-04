@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Les news sur le développement web et l&#39;IA pour septembre 2025 RC1](https://double-slash.dev/podcasts/sept25-rc1/)
 - [Développer des applications Realtime](https://double-slash.dev/podcasts/realtime/)
 - [Les news sur le développement web et l&#39;IA pour juillet 2025 RC1](https://double-slash.dev/podcasts/news-jul25/)
 - [L&#39;art de &quot;logger&quot;](https://double-slash.dev/podcasts/art-de-logger/)
 - [Les news web dev et IA pour juin 2025 RC1](https://double-slash.dev/podcasts/news-juin25/)
-- [La fabuleuse histoire de Next.js](https://double-slash.dev/podcasts/nextjs/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
