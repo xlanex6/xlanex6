@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [Les news Web Dev d’octobre 2025. Adonis, Laravel, React Compiler, Vite+ et bien plus encore !](https://double-slash.dev/podcasts/news-oct25/)
 - [Architecture logicielle](https://double-slash.dev/podcasts/archi/)
 - [Les news sur le développement web et l&#39;IA pour septembre 2025 RC2](https://double-slash.dev/podcasts/news-sept25-rc2/)
 - [Les news sur le développement web et l&#39;IA pour septembre 2025 RC1](https://double-slash.dev/podcasts/sept25-rc1/)
 - [Développer des applications Realtime](https://double-slash.dev/podcasts/realtime/)
-- [Les news sur le développement web et l&#39;IA pour juillet 2025 RC1](https://double-slash.dev/podcasts/news-jul25/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
