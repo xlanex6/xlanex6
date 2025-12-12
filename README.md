@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [🤖 News Décembre 2025 : de l&#39;IA, de la bêta et des pannes](https://double-slash.dev/podcasts/news-dec25/)
 - [🔥 News Novembre 2025 : 1an de MCP, Vercel Workflow, AI SDK et Mastra V1](https://double-slash.dev/podcasts/news-nov25/)
 - [Better Auth, la solution ultime pour l&#39;authentification](https://double-slash.dev/podcasts/better-auth/)
 - [Les news Web Dev d’octobre 2025. Adonis, Laravel, React Compiler, Vite+ et bien plus encore !](https://double-slash.dev/podcasts/news-oct25/)
 - [Architecture logicielle](https://double-slash.dev/podcasts/archi/)
-- [Les news sur le développement web et l&#39;IA pour septembre 2025 RC2](https://double-slash.dev/podcasts/news-sept25-rc2/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
