@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [News Février 2026, du WebMCP, des agents spammeurs et du Markdown.](https://double-slash.dev/podcasts/news-fev26/)
 - [🤖 News Janvier 2026 : Open Code, Qwen Code et un peu de code](https://double-slash.dev/podcasts/news-jan26/)
 - [Inertia JS, le front et le back unifiés](https://double-slash.dev/podcasts/inertia/)
 - [🤖 News Décembre 2025 : de l&#39;IA, de la bêta et des pannes](https://double-slash.dev/podcasts/news-dec25/)
 - [🔥 News Novembre 2025 : 1an de MCP, Vercel Workflow, AI SDK et Mastra V1](https://double-slash.dev/podcasts/news-nov25/)
-- [Better Auth, la solution ultime pour l&#39;authentification](https://double-slash.dev/podcasts/better-auth/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
