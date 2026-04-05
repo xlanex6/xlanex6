@@ -41,11 +41,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [News avril 2026, Cursor et Copilot dans la tourmente, Axios compromis et Arrow JS](https://double-slash.dev/podcasts/news-avril26/)
 - [News Mars 2026, Vite+, Void Cloud, du drama et de l&#39;IA](https://double-slash.dev/podcasts/news-mars26/)
 - [L&#39;IA nous rend-elle plus productifs... ou plus crevés ?](https://double-slash.dev/podcasts/iafatigue/)
 - [News Février 2026, du WebMCP, des agents spammeurs et du Markdown.](https://double-slash.dev/podcasts/news-fev26/)
 - [🤖 News Janvier 2026 : Open Code, Qwen Code et un peu de code](https://double-slash.dev/podcasts/news-jan26/)
-- [Inertia JS, le front et le back unifiés](https://double-slash.dev/podcasts/inertia/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
