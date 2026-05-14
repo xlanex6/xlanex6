@@ -25,7 +25,7 @@
 
 <br>
 
-[![screenShot](https://user-images.githubusercontent.com/13418668/203806421-bae6700f-4f69-47b0-9a0a-f92daea36935.png)]:https://double-slash.dev
+[![screenShot](https://user-images.githubusercontent.com/13418668/203806421-bae6700f-4f69-47b0-9a0a-f92daea36935.png)](https://double-slash.dev)
 
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
