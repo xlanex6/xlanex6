@@ -25,12 +25,8 @@
 
 <br>
 
-<!-- 
+[![screenShot](https://user-images.githubusercontent.com/13418668/203806421-bae6700f-4f69-47b0-9a0a-f92daea36935.png)]:https://double-slash.dev
 
-[![Website](https://img.shields.io/website?label=mindset&style=for-the-badge&up_message=100%25%20bullshit%20FREE&url=http%3A%2F%2Fwww.alexduval.fr)](https://www.alexduval.fr/)
-[![Prisma](https://img.shields.io/badge/Prisma%20Ambassador-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)](https://www.prisma.io/?utm_source=Prisma+Ambassador&utm_medium=Blop+post&utm_campaign=ambassador_program&utm_content=Prisma+AP+Alex+Duval)
-[![Nuxt](https://img.shields.io/badge/Nuxter-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)](https://www.nuxtjs.com)
--->
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
