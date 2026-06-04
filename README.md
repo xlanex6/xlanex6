@@ -30,11 +30,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [News Juin 2026, Bun passe à Rust, npm verrouille les scripts et SEO pour l&#39;IA](https://double-slash.dev/podcasts/news-jun26/)
 - [Comment faire tourner une IA en local: outils, modèles et configuration matérielle](https://double-slash.dev/podcasts/ia-local/)
 - [News Mai 2026, TypeScript 7 en beta, faux package TanStack et agent Cursor destructeur](https://double-slash.dev/podcasts/news-mai26/)
 - [News avril 2026, Cursor et Copilot dans la tourmente, Axios compromis et Arrow JS](https://double-slash.dev/podcasts/news-avril26/)
 - [News Mars 2026, Vite+, Void Cloud, du drama et de l&#39;IA](https://double-slash.dev/podcasts/news-mars26/)
-- [L&#39;IA nous rend-elle plus productifs... ou plus crevés ?](https://double-slash.dev/podcasts/iafatigue/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
