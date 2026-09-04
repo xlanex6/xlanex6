@@ -30,11 +30,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [News Septembre 2026 RC1, OpenAI coupe Cursor, Omarchy, HTMX 4 et Bun 1.4](https://double-slash.dev/podcasts/news-sept26/)
 - [News août 2026 : Cursor Origin, requêtes HTTP, Lerd et modèles IA open-weight](https://double-slash.dev/podcasts/news08-26/)
 - [Workflow SDK, orchestrer des tâches asynchrones sans usine à gaz](https://double-slash.dev/podcasts/workflow/)
 - [News Juillet 2026, TypeScript 7 RC, Astro 7 et des pièges pour agents IA](https://double-slash.dev/podcasts/news-jul26/)
 - [News Juin 2026 RC2, React quitte Meta, VoidZero rejoint Cloudflare et IA locale](https://double-slash.dev/podcasts/news-juin26-rc2/)
-- [News Juin 2026, Bun passe à Rust, npm verrouille les scripts et SEO pour l&#39;IA](https://double-slash.dev/podcasts/news-jun26/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
