@@ -30,11 +30,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [EmDash, le CMS de Cloudflare taillé pour les agents ?](https://double-slash.dev/podcasts/emdash/)
 - [News octobre 2026, Cloudflare Birthday Week, Shaders open source et pencils down](https://double-slash.dev/podcasts/news-oct-26-rc1/)
 - [On a rendu Double Slash 100 % Agent Ready, et voilà comment](https://double-slash.dev/podcasts/agent-ready/)
 - [News septembre 2026 RC2, Tailwind rejoint Shopify, des tokens gratuits et Homebrew UI](https://double-slash.dev/podcasts/news-sept26-rc2/)
 - [BunJS, l&#39;environement JS ultime ?](https://double-slash.dev/podcasts/bun/)
-- [News Septembre 2026 RC1, OpenAI coupe Cursor, Omarchy, HTMX 4 et Bun 1.4](https://double-slash.dev/podcasts/news-sept26/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
