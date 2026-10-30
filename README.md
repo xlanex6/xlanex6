@@ -30,11 +30,11 @@
 
 ### :studio_microphone:  Podcast DOUBLE SLASH [//.][podcast]
 <!-- BLOG-POST-LIST:START -->
+- [News octobre 2026, adieu Arc, Brotli fait trembler Node et Nuxt souffle ses 10 bougies](https://double-slash.dev/podcasts/news-oct-26-rc3/)
 - [News octobre 2026 RC2, Deno file chez Cloudflare, qui possède l&#39;open source JS et PHP sonne l&#39;alerte](https://double-slash.dev/podcasts/news-oct-26-rc2/)
 - [EmDash, le CMS de Cloudflare taillé pour les agents ?](https://double-slash.dev/podcasts/emdash/)
 - [News octobre 2026, Cloudflare Birthday Week, Shaders open source et pencils down](https://double-slash.dev/podcasts/news-oct-26-rc1/)
 - [On a rendu Double Slash 100 % Agent Ready, et voilà comment](https://double-slash.dev/podcasts/agent-ready/)
-- [News septembre 2026 RC2, Tailwind rejoint Shopify, des tokens gratuits et Homebrew UI](https://double-slash.dev/podcasts/news-sept26-rc2/)
 <!-- BLOG-POST-LIST:END -->
 
 --- 
